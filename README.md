@@ -17,5 +17,5 @@ IMDB sentiment Analysis model developed as part of Udacity's AWS Machine Learnin
   * L -> loss
   * S -> optimizer.step()
  * Deploying PyTorch model on an AWS Instance
- * Preprocessing the input text data from the web app and formating the model prediction output into the required format
+ * Preprocessing the input text data from the web app and formating the model prediction output into the required format in the file serve/predict.py
  * Completing the model deployment with integration of AWS Lambda and API gateway serices
