@@ -9,7 +9,7 @@ IMDB sentiment Analysis model developed as part of Udacity's AWS Machine Learnin
 
 ## The following are the items developed into the source repository of the course work for project completion:
 
-* Completing the build_dict() function in the Feature_Extraction_Training notbook, for creating the dictionary using the vocabulary of the training dataset
+* Completing the build_dict() function in the Feature_Extraction_Training notebook, for creating the dictionary using the vocabulary of the training dataset
   * idnetifying the most frequent words and encoding the text data into numerical values
 * Implimenting method to train Pytorch model using the following approach and implimenting the ZOLS in the train method of the file train/train/py
   * Z -> zero_grad()
